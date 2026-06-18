@@ -14,6 +14,8 @@ The solution combines:
 
 The primary objective is to detect potentially fraudulent transactions and provide investigators with actionable insights through an intuitive monitoring interface.
 
+![Dashboard Overview](images/dashboard_overview.png)
+
 ---
 
 ## Business Problem
@@ -122,6 +124,8 @@ Interactive visualizations include:
 
 These views help identify suspicious patterns and fraud spikes.
 
+![Fraud Distribution](images/fraud_distribution.png)
+
 ---
 
 ## Explainable AI Layer
@@ -146,6 +150,8 @@ Transactions are categorized as:
 * Low Risk
 
 This approach provides transparency and helps investigators understand why a transaction was flagged.
+
+![Explainability Layer](images/explainability_layer.png)
 
 ---
 
